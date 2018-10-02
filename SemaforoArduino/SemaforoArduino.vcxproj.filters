@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="SemaforoArduino.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.SemaforoArduino.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
